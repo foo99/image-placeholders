@@ -4,4 +4,4 @@ Quick and simple image placeholders service. Written by The Laravel Lumen Framew
 
 ## Usage:
 
-You need download font file in `public/fonts` directory. 
+You need download font file in `public/fonts` directory. and rewrite `config/fonts.php` file.

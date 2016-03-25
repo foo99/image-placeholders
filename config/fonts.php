@@ -1,4 +1,4 @@
 <?php
 return [
-	'file' => 'public/fonts/NotoSansCJK.ttc'
+	'file' => 'public/fonts/YOUR_FONT_FILE'
 ];
